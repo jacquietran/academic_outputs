@@ -44,6 +44,13 @@
 
 - **Tran, J.** & Letter, R. (2017). [Scoring dynamics in the Australian Football League: Analysis of the 2008–2016 seasons.](http://www.jsams.org/article/S1440-2440(17)31300-2/fulltext) _Journal of Science and Medicine in Sport_, _20_(Suppl. 3), 31. `full text`
 
+### 2016
+
+- Lalor, B., **Tran, J.**, Halson, S., Kemp, J., & Cormack, S. (2016). Impact of match start time and days to match compared to habitual sleep characteristics of elite Australian football players. Presented at _2016 Australian Strength & Conditioning Association Conference_, 4–6 November, Melbourne, Australia. `needs link`
+- Cant, O., **Tran, J.**, Menaspà, M., Drew, M.K., & Gastin, P.B. (2016). Predicting illness and injury risk in elite female water polo: Is there an optimal way to calculate acute-chronic workload ratio? _Journal of Science and Medicine in Sport_, _20_(Suppl.), e95–e96. `needs link`
+- **Tran, J.**, Maloney, M., Chan, V., Porter, C., & Humberstone, C. (2016). Anthropometry, fitness, sensorimotor skills, and performance of developing junior taekwondo athletes. _Journal of Science and Medicine in Sport_, _20_(Suppl.), e59. `needs link`
+- Gallo, T., Cormack, S.J., Gabbett, T.J., **Tran, J.**, & Lorenzen, C.H. (2016). [The influence of internal load measures and athlete self-reported wellness on match performance in Australian football.](https://vimeo.com/160709546) Presented at the _2nd Aspire Academy Sport Science Conference_, 23–25 February, Doha, Qatar. `presentation video`
+
 ## Invited presentations
 
 ### 2018
