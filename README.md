@@ -24,8 +24,12 @@
 - **Tran, J.**, Rice, A.J., Main, L.C. & Gastin, P.B. (2014). [Development and implementation of a novel measure for quantifying training loads in rowing: The T2minute method.](http://journals.lww.com/nsca-jscr/Fulltext/2014/04000/Development_and_Implementation_of_a_Novel_Measure.40.aspx) _Journal of Strength and Conditioning Research_, _28_(4), 1172–1180. `paywalled`
 - **Tran, J.** & Finch, C.F. (2014). [Are implementation science advances and digital technology developments important in sports medicine?  Sports Medicine Australia thinks so!](http://bjsm.bmj.com/content/48/8/675.full) _British Journal of Sports Medicine_, _28_(8), 675–676. `full text`
 
+### 2010
+
+- **Tran, J.**, Netto, K., Aisbett, B., & Gastin, P.B. (2010). [Validation of accelerometer data for measuring impacts during jumping and landing tasks.](http://dro.deakin.edu.au/view/DU:30032107) In R. Jensen, W. Ebben, E. Petushek, C. Richter, & K Roemer (Eds.), _Proceedings of the 28th International Society of Biomechanics in Sports Congress_. Paper presented at International Society of Biomechanics in Sports Conference, Northern Michigan University, Marquette, 19–23 July. `full text`
 
 ## Manuscripts under review
+
 
 
 ## Conference proceedings and presentations
