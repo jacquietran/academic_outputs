@@ -30,7 +30,7 @@
 
 ## Manuscripts under review
 
-
+- Lalor, B.J., Halson, S.L., **Tran, J.**, Kemp, J.G., & Cormack, S.J. A complex relationship: Sleep, training load, and well-being in elite Australian footballers. Submitted for review 21 January 2019.
 
 ## Conference proceedings and presentations
 
