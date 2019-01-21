@@ -37,10 +37,8 @@
 ### 2018
 
 - Young, C., Luo, W., Gastin, P., **Tran, J.**, & Dwyer, D.B. (2018). [Modelling of match performance indicators in Australian football.](https://www.researchgate.net/publication/328213605_Modelling_of_Match_Performance_Indicators_in_Australian_Football) Presented at the _World Congress of Performance Analysis in Sport XII_, 19–23 September, Opatija, Croatia. `full text` `requires ResearchGate account`
-
-Hoffman, D., Dwyer, D., **Tran, J.**, Clifton, P., & Gastin, P. (2018). [A longitudinal analysis of AFL injury characteristics indicates changes in setting, site and time span from 1997 to 2016.](https://www.jsams.org/article/S1440-2440(18)30770-9/fulltext) _Journal of Science and Medicine in Sport_, _21_(Suppl.), S61–S62. doi: 10.1016/j.jsams.2018.09.140 `full text`
-
-Young, C., Luo, W., **Tran, J.**, Gastin, P.B., & Dwyer, D. (2018). [Data mining with performance indicators in Australian rules football – Methodological considerations.](https://www.researchgate.net/publication/328213823_Data_mining_with_Performance_Indicators_in_Australian_Rules_Football_-_Methodological_Considerations) Presented at the _2018 Exercise and Sports Science Australia Conference – Research to Practice_, 27–29 March, Brisbane, Australia. `full text` `requires ResearchGate account`
+- Hoffman, D., Dwyer, D., **Tran, J.**, Clifton, P., & Gastin, P. (2018). [A longitudinal analysis of AFL injury characteristics indicates changes in setting, site and time span from 1997 to 2016.](https://www.jsams.org/article/S1440-2440(18)30770-9/fulltext) _Journal of Science and Medicine in Sport_, _21_(Suppl.), S61–S62. doi: 10.1016/j.jsams.2018.09.140 `full text`
+- Young, C., Luo, W., **Tran, J.**, Gastin, P.B., & Dwyer, D. (2018). [Data mining with performance indicators in Australian rules football – Methodological considerations.](https://www.researchgate.net/publication/328213823_Data_mining_with_Performance_Indicators_in_Australian_Rules_Football_-_Methodological_Considerations) Presented at the _2018 Exercise and Sports Science Australia Conference – Research to Practice_, 27–29 March, Brisbane, Australia. `full text` `requires ResearchGate account`
 
 ## Invited presentations
 
