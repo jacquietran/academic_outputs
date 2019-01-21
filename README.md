@@ -10,7 +10,7 @@
 
 ### 2017
 
-- Robertson, S., Kremer, P., Aisbett, B., **Tran, J.**, & Cerin, E. (2017). Consensus on measurement properties and feasibility of performance tests for the exercise and sport sciences: a Delphi study. _Sports Medicine - Open_, _3_(2). doi: [10.1186/s40798-016-0071-y](10.1186/s40798-016-0071-y) **full text available**
+- Robertson, S., Kremer, P., Aisbett, B., **Tran, J.**, & Cerin, E. (2017). Consensus on measurement properties and feasibility of performance tests for the exercise and sport sciences: a Delphi study. _Sports Medicine - Open_, _3_(2). doi: [10.1186/s40798-016-0071-y](10.1186/s40798-016-0071-y) **[full text available]**
 
 ## Manuscripts under review
 
