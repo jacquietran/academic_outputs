@@ -99,24 +99,24 @@
 
 ### 2022
 
-- **Tran, J.** (2022). <a href="https://wombat2022.numbat.space/sport.html">More data than we know what to do with! [Note: Women's results not available.]</a> Presented at the _2022 Workshop Organised by the Monash Business Analytics Team (WOMBAT)_, 7 December, Melbourne, Australia.
+- **Tran, J.** (2022). <a href="https://wombat2022.numbat.space/sport.html">More data than we know what to do with! [Note: Women's results not available.]</a> Presented at the _2022 Workshop Organised by the Monash Business Analytics Team (WOMBAT)_, 7 December 2022, Melbourne, Australia.
 
 ### 2021
 
-- **Tran, J.** (2021). What you learn from "pinging your first hammy": Lessons learned from working with data in elite sport. Presented at the _2021 Australian Catholic University Women in High Performance Sport Seminar Series_, 29 June, Online.
+- **Tran, J.** (2021). What you learn from "pinging your first hammy": Lessons learned from working with data in elite sport. Presented at the _2021 Australian Catholic University Women in High Performance Sport Seminar Series_, 29 June 2021, Online.
 
 ### 2020
 
-- **Tran, J.** (2020). Data practices and data problems in performance sport. Presented at the _2020 satRday Auckland Conference_, 22 February, Auckland, New Zealand.
+- **Tran, J.** (2020). Data practices and data problems in performance sport. Presented at the _2020 satRday Auckland Conference_, 22 February 2020, Auckland, New Zealand.
 
 ### 2019
 
-- **Tran, J.** (2019). Working with data in elite sport. Presented at the _2019 University of Auckland Statistics Teachers' Day_, 29 November, Auckland, New Zealand.
-- **Tran, J.** (2019). Using data analytics to investigate, understand, and solve problems in exercise and sport. Presented at the 2019 Exercise & Sport Science Australia Forum, 4 May, Melbourne, Australia.
+- **Tran, J.** (2019). Working with data in elite sport. Presented at the _2019 University of Auckland Statistics Teachers' Day_, 29 November 2019, Auckland, New Zealand.
+- **Tran, J.** (2019). Using data analytics to investigate, understand, and solve problems in exercise and sport. Presented at the _2019 Exercise & Sport Science Australia Forum_, 4 May 2019, Melbourne, Australia.
 
 ### 2018
 
-- **Tran, J.** (2018). [From insights to decisions: Knowledge sharing in sports analytics.](https://www.slideshare.net/jacquietran/from-insights-to-decisions-knowledge-sharing-in-sports-analytics) Presented at the Auckland University of Technology Sports Performance Research Institute New Zealand Strength & Conditioning Pre-Conference - Sports Performance Analysis, 14 November, Auckland, New Zealand. `slide deck`
+- **Tran, J.** (2018). [From insights to decisions: Knowledge sharing in sports analytics.](https://www.slideshare.net/jacquietran/from-insights-to-decisions-knowledge-sharing-in-sports-analytics) Presented at the _Auckland University of Technology Sports Performance Research Institute New Zealand Strength & Conditioning Pre-Conference - Sports Performance Analysis_, 14 November 2018, Auckland, New Zealand. `slide deck`
 
 ## Editorial work
 
