@@ -42,7 +42,6 @@
 ### 2014
 
 - **Tran, J.**, Rice, A.J., Main, L.C. & Gastin, P.B. (2014). [Development and implementation of a novel measure for quantifying training loads in rowing: The T2minute method.](http://journals.lww.com/nsca-jscr/Fulltext/2014/04000/Development_and_Implementation_of_a_Novel_Measure.40.aspx) _Journal of Strength and Conditioning Research_, _28_(4), 1172–1180. `paywalled`
-- **Tran, J.** & Finch, C.F. (2014). [Are implementation science advances and digital technology developments important in sports medicine?  Sports Medicine Australia thinks so!](http://bjsm.bmj.com/content/48/8/675.full) _British Journal of Sports Medicine_, _28_(8), 675–676. `full text`
 
 ### 2010
 
@@ -75,4 +74,5 @@
 
 ## Editorial work
 
-Tran, J., Finch, C.F., & Marino, N. (Eds.) (2014). [Sports medicine's future: harnessing digital technology & embracing implementation science (Special Issue).](http://bjsm.bmj.com/content/48/8.toc) _British Journal of Sports Medicine_, _28_(8).
+- **Tran, J.**, Finch, C.F., & Marino, N. (Eds.) (2014). [Sports medicine's future: harnessing digital technology & embracing implementation science (Special Issue).](http://bjsm.bmj.com/content/48/8.toc) _British Journal of Sports Medicine_, _28_(8).
+- **Tran, J.** & Finch, C.F. (2014). [Are implementation science advances and digital technology developments important in sports medicine?  Sports Medicine Australia thinks so!](http://bjsm.bmj.com/content/48/8/675.full) _British Journal of Sports Medicine_, _28_(8), 675–676. `full text`
