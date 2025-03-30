@@ -2,6 +2,13 @@
 
 ## Book chapters
 
+### 2022
+
+- Bosch, T.A. & **Tran, J.** Data Delivery and Reporting. In D. French & L. Torres Ronda (Eds.), _NSCA's Essentials of Sport Science._ Human Kinetics.
+
+### 2021
+
+- Robertson, S. & **Tran, J.** Learning. In D. Joyce & D. Lewindon (Eds.), _High-Performance Training for Sports (2nd ed.)._ Human Kinetics.
 
 ## Publications
 
