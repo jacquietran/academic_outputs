@@ -73,6 +73,28 @@
 - **Tran, J.**, Maloney, M., Chan, V., Porter, C., & Humberstone, C. (2016). [Anthropometry, fitness, sensorimotor skills, and performance of developing junior taekwondo athletes.](https://doi.org/10.1016/j.jsams.2017.01.158) _Journal of Science and Medicine in Sport_, _20_(Suppl.), e59. doi: 10.1016/j.jsams.2017.01.158 `paywalled`
 - Gallo, T., Cormack, S.J., Gabbett, T.J., **Tran, J.**, & Lorenzen, C.H. (2016). [The influence of internal load measures and athlete self-reported wellness on match performance in Australian football.](https://vimeo.com/160709546) Presented at the _2nd Aspire Academy Sport Science Conference_, 23–25 February, Doha, Qatar. `presentation video`
 
+### 2014
+
+- **Tran, J.** (2014). Predictive modelling: Pitfalls and possibilities. Presented at the _2014 Applied Physiology Conference for the National Institute Network_, 10–11 November 2014, Canberra, Australia.
+- **Tran, J.**, Main, L.C., Rice, A.J., & Gastin, P.B. (2014). Wellness responses of successful and unsuccessful rowers throughout one season. Presented at the _10th Annual Research Degree Symposium of the Deakin University School of Exercise and Nutrition Sciences_, 5 September 2014, Melbourne, Australia.
+- Vincent, G., Ferguson, S.A., **Tran, J.** & Aisbett, B. (2014). Fighting fires and fatigue: Effect of 4-hours sleep deprivation on firefighter physical performance during simulated bushfire suppression. Presented at _SLEEP 2014: the 28th Annual Meeting of the Associated Professional Sleep Societies_, 31 May–4 June 2014, Minneapolis, MN, USA.
+- **Tran, J.**, Main, L.C., Rice, A.J. & Gastin, P.B. (2014). Training distress, motivation, and burnout: Comparing wellness responses of successful and unsuccessful rowers throughout one competitive season. Presented at the _6th Exercise and Sports Science Australia Conference_, 10–12 April 2014, Adelaide, Australia.
+- Vincent, G.E., Ferguson, S.A., **Tran, J.** & Aisbett, B. (2014). Fighting fires and fatigue: Sleep deprivation during simulated bushfire suppression. Presented at the _6th Exercise and Sports Science Australia Conference_, 10–12 April 2014, Adelaide, Australia.
+
+### 2013
+
+- **Tran, J.**, Main, L.C., Rice, A.J. & Gastin, P.B. (2013). Wellness factors that distinguish responders and non-responders to training in rowing. Presented at the _18th Annual Congress of the European College of Sport Science_, 26–29 June 2013, Barcelona, Spain.
+
+### 2012
+
+- **Tran, J.**, Main, L.C. & Aisbett, B. (2012). Curate, promote, network, mentor: Using Web 2.0 tools to guide postgraduate students and support researchers in training. Presented at the _Deakin Teaching and Learning Conference 2012_, 15–16 November 2012, Melbourne, Australia.
+- **Tran, J.**, Main, L.C., Rice, A.J. & Gastin, P.B. (2012). A novel measure of rowing training: Design, implementation, and evaluation. Presented at the _9th Annual Research Degree Symposium of the Deakin University School of Exercise and Nutrition Sciences_, 9 November 2012, Melbourne, Australia.
+
+### 2011
+
+- Larsen, B., Aisbett, B., Lord, C., Neesham-Smith, D., **Tran, J.**, Vincs, K., Martin, J., Vu, S. & Netto, K. (2011). Military body armour: Friend or foe? Presented at the _8th Australasian Biomechanics Conference_, 28–29 November 2011, Canberra, Australia.
+- **Tran, J.**, Rice, A.J., Main, L.C. & Gastin, P.B. (2011). Measuring training and its effects on elite rowing performance. Presented at the _8th Annual Research Degree Symposium of the Deakin University School of Exercise and Nutrition Sciences_, 26 October 2011, Melbourne, Australia.
+
 ## Invited presentations
 
 ### 2018
