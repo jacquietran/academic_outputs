@@ -1,5 +1,7 @@
 # Dr Jacquie Tran: Academic publications and presentations
 
+Last updated: 30 March 2025
+
 ## Book chapters
 
 ### 2022
