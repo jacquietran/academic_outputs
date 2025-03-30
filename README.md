@@ -1,11 +1,31 @@
 # Dr Jacquie Tran: Academic publications and presentations
 
+## Book chapters
+
+
 ## Publications
+
+### 2022
+
+- Roberts, S.S.H., Bowe, S.J., Evans, L., **Tran, J.**, & Warmington, S. [Does game-day circadian misalignment or environmental temperature influence team performance in the Australian Football League? An examination of historical data.](https://doi.org/10.1016/j.jsams.2022.03.001) _Journal of Science and Medicine in Sport_, _25_(7), 593–598. doi: 10.1016/j.jsams.2022.03.001 `paywalled`
+
+### 2021
+
+- Lalor, B.J., **Tran, J.**, Halson, S.L., Kemp, J.G., & Cormack, S.J. [Business class travel preserves sleep quality and quantity and minimizes jet lag during the ICC Women's T20 World Cup.](https://doi.org/10.1123/ijspp.2020-0689) _International Journal of Sports Physiology and Performance_, _16_(10), 1490–1501. doi: 10.1123/ijspp.2020-0689 `paywalled`
+
+### 2020
+
+- Taylor, N., Gastin, P.B., Mills, O. & **Tran, J.** [Network analysis of kick-in possession chains in elite Australian football.](https://doi.org/10.1080/02640414.2020.1740490) _Journal of Sports Sciences_, _38_(9), 1053–1061. doi: 10.1080/02640414.2020.1740490 `paywalled`
+- Lalor, B.J., Halson, S.L., **Tran, J.**, Kemp, J.G. & Cormack, S.J.. [A complex relationship: Sleep, external training load, and well-being in elite Australian footballers.](https://doi.org/10.1123/ijspp.2019-0061) _International Journal of Sports Physiology and Performance_, _15_(6), 777–787. doi: 10.1123/ijspp.2019-0061 `paywalled`
+
+### 2019
+
+- Young, C., Luo, W., Gastin, P., **Tran, J.** & Dwyer, D. [Modelling match outcome in Australian football: Improved accuracy with large databases.](https://intapi.sciendo.com/pdf/10.2478/ijcss-2019-0005) _International Journal of Computer Science in Sport_, _18_(1), 80–92. doi: 10.2478/ijcss-2019-0005 `full text`
+- Hoffman, D., Dwyer, D.B., **Tran, J.**, Clifton, P., & Gastin. P. [Australian Football League injury characteristics differ between matches and training – A longitudinal analysis of changes in setting, site, and time span from 1997 to 2016.](https://doi.org/10.1177/2325967119837641) _Orthopaedic Journal of Sports Medicine_, _7_(4). doi: 10.1177/2325967119837641 `full text`
+- Young, C.M., Luo, W., Gastin, P., **Tran, J.**, & Dwyer, D.B. (2018). [The relationship between match performance indicators and outcome in Australian football.](https://dx.doi.org/10.1016/j.jsams.2018.09.235) _Journal of Science and Medicine in Sport_, _22_(4). doi: 10.1016/j.jsams.2018.09.235 `paywalled`
 
 ### 2018
 
-- Hoffman, D., Dwyer, D.B., **Tran, J.**, Clifton, P., & Gastin. P. Australian Football League injury characteristics differ between matches and training – A longitudinal analysis of changes in setting, site and time span from 1997 to 2016. _Orthopaedic Journal of Sports Medicine._ Accepted for publication.
-- Young, C.M., Luo, W., Gastin, P., **Tran, J.**, & Dwyer, D.B. (2018). [The relationship between match performance indicators and outcome in Australian football.](https://dx.doi.org/10.1016/j.jsams.2018.09.235) _Journal of Science and Medicine in Sport._ Advance online publication. doi: 10.1016/j.jsams.2018.09.235 `paywalled`
 - Lalor, B.J., Halson, S.L., **Tran, J.**, Kemp, J.G., & Cormack, S.J. (2018). [No compromise of competition sleep compared with habitual sleep in elite Australian footballers.](https://dx.doi.org/10.1123/ijspp.2016-0776) _International Journal of Sports Physiology and Performance_, _13_(1), 29–36. doi: 10.1123/ijspp.2016-0776 `paywalled`
 
 ### 2017
@@ -27,10 +47,6 @@
 ### 2010
 
 - **Tran, J.**, Netto, K., Aisbett, B., & Gastin, P.B. (2010). [Validation of accelerometer data for measuring impacts during jumping and landing tasks.](http://dro.deakin.edu.au/view/DU:30032107) In R. Jensen, W. Ebben, E. Petushek, C. Richter, & K Roemer (Eds.), _Proceedings of the 28th International Society of Biomechanics in Sports Congress_. Paper presented at International Society of Biomechanics in Sports Conference, Northern Michigan University, Marquette, 19–23 July. `full text`
-
-## Manuscripts under review
-
-- Lalor, B.J., Halson, S.L., **Tran, J.**, Kemp, J.G., & Cormack, S.J. A complex relationship: Sleep, training load, and well-being in elite Australian footballers. Submitted for review 21 January 2019.
 
 ## Conference proceedings and presentations
 
@@ -56,8 +72,6 @@
 ### 2018
 
 - **Tran, J.** (2018). [From insights to decisions: Knowledge sharing in sports analytics.](https://www.slideshare.net/jacquietran/from-insights-to-decisions-knowledge-sharing-in-sports-analytics) Presented at the Auckland University of Technology Sports Performance Research Institute New Zealand Strength & Conditioning Pre-Conference - Sports Performance Analysis, 14 November, Auckland, New Zealand. `slide deck`
-
-## Guest lectures
 
 ## Editorial work
 
