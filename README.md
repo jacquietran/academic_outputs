@@ -58,6 +58,11 @@ Last updated: 30 March 2025
 
 ## Conference proceedings and presentations
 
+### 2026
+
+- Lind, T., Huynh, M., **Tran, J.**, Maslo, D., & Carey, D.L. (2026). Exploratory analysis and modelling of multi-trial field event performance. Accepted for presentation at the _18th Australasian Conference on 
+Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
+
 ### 2018
 
 - Young, C., Luo, W., Gastin, P., **Tran, J.**, & Dwyer, D.B. (2018). [Modelling of match performance indicators in Australian football.](https://www.researchgate.net/publication/328213605_Modelling_of_Match_Performance_Indicators_in_Australian_Football) Presented at the _World Congress of Performance Analysis in Sport XII_, 19–23 September, Opatija, Croatia. `full text` `requires ResearchGate account`
