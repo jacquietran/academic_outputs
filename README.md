@@ -72,8 +72,8 @@ Last updated: 6 May 2026
 
 ### 2026
 
-- Azzopardi, S., Huynh, M., **Tran, J.**, & Carey, D.L. (2026). Comparative analysis of defensive pressure in men's and women's Australian football. Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
-- Lind, T., Huynh, M., **Tran, J.**, Maslo, D., & Carey, D.L. (2026). Exploratory analysis and modelling of multi-trial field event performance. Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
+- Azzopardi, S., Huynh, M., **Tran, J.**, & Carey, D.L. (2026). [Comparative analysis of defensive pressure in men's and women's Australian football.](https://www.anziam.org.au/tiki-download_file.php?fileId=200) Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia. `full text`
+- Lind, T., Huynh, M., **Tran, J.**, Maslo, D., & Carey, D.L. (2026). [Exploratory analysis and modelling of multi-trial field event performance.](https://www.anziam.org.au/tiki-download_file.php?fileId=200) Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia. `full text`
 
 ### 2018
 
