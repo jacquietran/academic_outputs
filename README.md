@@ -2,7 +2,8 @@
 
 Last updated: 6 May 2026
 
-Nav:
+## Navigation links
+
 - [Book chapters](#book-chapters)
 - [Peer-reviewed publications](#peer-reviewed-publications)
 - [Conference proceedings and presentations](#conference-proceedings-and-presentations)
@@ -18,6 +19,8 @@ Nav:
 ### 2021
 
 - Robertson, S. & **Tran, J.** (2021). Learning. In D. Joyce & D. Lewindon (Eds.), _High-Performance Training for Sports (2nd ed.)._ Human Kinetics.
+
+[Back to top](#navigation-links)
 
 ## Peer-reviewed publications
 
@@ -62,6 +65,8 @@ Nav:
 ### 2010
 
 - **Tran, J.**, Netto, K., Aisbett, B., & Gastin, P.B. (2010). [Validation of accelerometer data for measuring impacts during jumping and landing tasks.](http://dro.deakin.edu.au/view/DU:30032107) In R. Jensen, W. Ebben, E. Petushek, C. Richter, & K Roemer (Eds.), _Proceedings of the 28th International Society of Biomechanics in Sports Congress_. Paper presented at International Society of Biomechanics in Sports Conference, Northern Michigan University, Marquette, 19–23 July. `full text`
+
+[Back to top](#navigation-links)
 
 ## Conference proceedings and presentations
 
@@ -109,6 +114,8 @@ Nav:
 - Larsen, B., Aisbett, B., Lord, C., Neesham-Smith, D., **Tran, J.**, Vincs, K., Martin, J., Vu, S. & Netto, K. (2011). Military body armour: Friend or foe? Presented at the _8th Australasian Biomechanics Conference_, 28–29 November 2011, Canberra, Australia.
 - **Tran, J.**, Rice, A.J., Main, L.C. & Gastin, P.B. (2011). Measuring training and its effects on elite rowing performance. Presented at the _8th Annual Research Degree Symposium of the Deakin University School of Exercise and Nutrition Sciences_, 26 October 2011, Melbourne, Australia.
 
+[Back to top](#navigation-links)
+
 ## Invited presentations
 
 ### 2026
@@ -137,7 +144,11 @@ Nav:
 
 - **Tran, J.** (2018). [From insights to decisions: Knowledge sharing in sports analytics.](https://www.slideshare.net/jacquietran/from-insights-to-decisions-knowledge-sharing-in-sports-analytics) Presented at the _Auckland University of Technology Sports Performance Research Institute New Zealand Strength & Conditioning Pre-Conference - Sports Performance Analysis_, 14 November 2018, Auckland, New Zealand. `slide deck`
 
+[Back to top](#navigation-links)
+
 ## Editorial work
 
 - **Tran, J.**, Finch, C.F., & Marino, N. (Eds.) (2014). [Sports medicine's future: harnessing digital technology & embracing implementation science (Special Issue).](http://bjsm.bmj.com/content/48/8.toc) _British Journal of Sports Medicine_, _28_(8).
 - **Tran, J.** & Finch, C.F. (2014). [Are implementation science advances and digital technology developments important in sports medicine?  Sports Medicine Australia thinks so!](http://bjsm.bmj.com/content/48/8/675.full) _British Journal of Sports Medicine_, _28_(8), 675–676. `full text`
+
+[Back to top](#navigation-links)
