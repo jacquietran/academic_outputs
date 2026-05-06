@@ -1,6 +1,13 @@
 # Dr Jacquie Tran: Academic publications and presentations
 
-Last updated: 25 March 2026
+Last updated: 6 May 2026
+
+Nav:
+- [Book chapters](#book-chapters)
+- [Peer-reviewed publications](#peer-reviewed-publications)
+- [Conference proceedings and presentations](#conference-proceedings-and-presentations)
+- [Invited presentations](#invited-presentations)
+- [Editorial work](#editorial-work)
 
 ## Book chapters
 
@@ -12,7 +19,7 @@ Last updated: 25 March 2026
 
 - Robertson, S. & **Tran, J.** (2021). Learning. In D. Joyce & D. Lewindon (Eds.), _High-Performance Training for Sports (2nd ed.)._ Human Kinetics.
 
-## Publications
+## Peer-reviewed publications
 
 ### 2022
 
@@ -60,8 +67,8 @@ Last updated: 25 March 2026
 
 ### 2026
 
-- Lind, T., Huynh, M., **Tran, J.**, Maslo, D., & Carey, D.L. (2026). Exploratory analysis and modelling of multi-trial field event performance. Accepted for presentation at the _18th Australasian Conference on 
-Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
+- Azzopardi, S., Huynh, M., **Tran, J.**, & Carey, D.L. (2026). Comparative analysis of defensive pressure in men's and women's Australian football. Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
+- Lind, T., Huynh, M., **Tran, J.**, Maslo, D., & Carey, D.L. (2026). Exploratory analysis and modelling of multi-trial field event performance. Accepted for presentation at the _18th Australasian Conference on Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeach, Australia.
 
 ### 2018
 
@@ -103,6 +110,11 @@ Mathematics and Computers in Sport (ANZIAM Mathsport 2026)_, 1-3 July, Broadbeac
 - **Tran, J.**, Rice, A.J., Main, L.C. & Gastin, P.B. (2011). Measuring training and its effects on elite rowing performance. Presented at the _8th Annual Research Degree Symposium of the Deakin University School of Exercise and Nutrition Sciences_, 26 October 2011, Melbourne, Australia.
 
 ## Invited presentations
+
+### 2026
+
+- **Tran, J.** (2026). Details TBC. Invited presentation at the _La Trobe Sport Science Symposium_, October 2026, Melbourne, Australia.
+- **Tran, J.** (2026). Details TBC. Invited presentation at the _Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society One Day Meeting June 2026_, 1 June 2026, Melbourne, Australia.
 
 ### 2022
 
