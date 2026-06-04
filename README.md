@@ -120,8 +120,8 @@ Last updated: 6 May 2026
 
 ### 2026
 
-- **Tran, J.** (2026). Details TBC. Invited presentation at the _La Trobe Sport Science Symposium_, October 2026, Melbourne, Australia.
-- **Tran, J.** (2026). Details TBC. Invited presentation at the _Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society One Day Meeting June 2026_, 1 June 2026, Melbourne, Australia.
+- **Tran, J.** (2026). Details TBC. To be presented at the _La Trobe Sport Science Symposium_, October 2026, Melbourne, Australia.
+- **Tran, J.** (2026). [The awkward, exciting adolescence of sports analytics.](https://jacquietran.github.io/2026_anziam_vic/) Presented at the _Victorian branch of the Australian and New Zealand Industrial and Applied Mathematics Society (VicANZIAM) One Day Workshop June 2026_, 1 June 2026, Melbourne, Australia. `slide deck`
 
 ### 2022
 
